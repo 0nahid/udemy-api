@@ -13,19 +13,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "2G8iYQmlT56D16Tl2Nh7VA",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Colt Steele",
-                "name": "Colt",
-                "display_name": "Colt Steele",
-                "job_title": "Developer and Bootcamp Instructor",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/4466306_6fd8_3.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/4466306_6fd8_3.jpg",
-                "initials": "CS",
-                "url": "/user/coltsteele/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Colt Steele",
+            "name": "Colt",
+            "display_name": "Colt Steele",
+            "job_title": "Developer and Bootcamp Instructor",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/4466306_6fd8_3.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/4466306_6fd8_3.jpg",
+            "initials": "CS",
+            "url": "/user/coltsteele/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/625204_436a_3.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg",
         "is_practice_test_course": false,
@@ -56,19 +54,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "4_MeNIXcTFqKjHrbozoHEg",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Dr. Angela Yu",
-                "name": "Dr. Angela",
-                "display_name": "Dr. Angela Yu",
-                "job_title": "Developer and Lead Instructor",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/31334738_a13c_2.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/31334738_a13c_2.jpg",
-                "initials": "DY",
-                "url": "/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Dr. Angela Yu",
+            "name": "Dr. Angela",
+            "display_name": "Dr. Angela Yu",
+            "job_title": "Developer and Lead Instructor",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/31334738_a13c_2.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/31334738_a13c_2.jpg",
+            "initials": "DY",
+            "url": "/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/1565838_e54e_12.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_12.jpg",
         "is_practice_test_course": false,
@@ -99,30 +95,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "9jBS4lZWRAezdH3M78Kxkg",
-        "visible_instructors": [
-            {
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/31926668_94e7_6.jpg",
-                "title": "Academind by Maximilian Schwarzmüller",
-                "_class": "user",
-                "job_title": "Online Education",
-                "name": "Academind by Maximilian",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/31926668_94e7_6.jpg",
-                "url": "/user/academind/",
-                "display_name": "Academind by Maximilian Schwarzmüller",
-                "initials": "AS"
-            },
-            {
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/13952972_e853.jpg",
-                "title": "Maximilian Schwarzmüller",
-                "_class": "user",
-                "job_title": "Professional Web Developer and Instructor",
-                "name": "Maximilian",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/13952972_e853.jpg",
-                "url": "/user/maximilian-schwarzmuller/",
-                "display_name": "Maximilian Schwarzmüller",
-                "initials": "MS"
-            }
-        ],
+        "visible_instructors": {
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/31926668_94e7_6.jpg",
+            "title": "Academind by Maximilian Schwarzmüller",
+            "_class": "user",
+            "job_title": "Online Education",
+            "name": "Academind by Maximilian",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/31926668_94e7_6.jpg",
+            "url": "/user/academind/",
+            "display_name": "Academind by Maximilian Schwarzmüller",
+            "initials": "AS"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/1362070_b9a1_2.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
         "is_practice_test_course": false,
@@ -153,19 +136,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "_4RqosuJTWyWz4Qc8VF3Lw",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Jonas Schmedtmann",
-                "name": "Jonas",
-                "display_name": "Jonas Schmedtmann",
-                "job_title": "Web Developer, Designer, and Teacher",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/7799204_2091_5.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/7799204_2091_5.jpg",
-                "initials": "JS",
-                "url": "/user/jonasschmedtmann/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Jonas Schmedtmann",
+            "name": "Jonas",
+            "display_name": "Jonas Schmedtmann",
+            "job_title": "Web Developer, Designer, and Teacher",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/7799204_2091_5.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/7799204_2091_5.jpg",
+            "initials": "JS",
+            "url": "/user/jonasschmedtmann/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/851712_fc61_6.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
         "is_practice_test_course": false,
@@ -196,30 +177,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "lbyqyiinTnqU9LrXaj8eUg",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Rob Percival",
-                "name": "Rob",
-                "display_name": "Rob Percival",
-                "job_title": "Web Developer And Teacher",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/4387876_78bc.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/4387876_78bc.jpg",
-                "initials": "RP",
-                "url": "/user/robpercival/"
-            },
-            {
-                "_class": "user",
-                "title": "Codestars by Rob Percival",
-                "name": "Codestars",
-                "display_name": "Codestars by Rob Percival",
-                "job_title": "Teaching the Next Generation of Coders",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/33231436_2824_3.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/33231436_2824_3.jpg",
-                "initials": "CB",
-                "url": "/user/codestars/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Rob Percival",
+            "name": "Rob",
+            "display_name": "Rob Percival",
+            "job_title": "Web Developer And Teacher",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/4387876_78bc.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/4387876_78bc.jpg",
+            "initials": "RP",
+            "url": "/user/robpercival/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/764164_de03_2.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/764164_de03_2.jpg",
         "is_practice_test_course": false,
@@ -250,19 +218,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "CXTxiKWwR9mBxzLrG2Z70g",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Andrei Neagoie",
-                "name": "Andrei",
-                "display_name": "Andrei Neagoie",
-                "job_title": "Senior Software Developer / Founder of zerotomastery.io",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/38516954_b11c_3.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/38516954_b11c_3.jpg",
-                "initials": "AN",
-                "url": "/user/andrei-neagoie/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Andrei Neagoie",
+            "name": "Andrei",
+            "display_name": "Andrei Neagoie",
+            "job_title": "Senior Software Developer / Founder of zerotomastery.io",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/38516954_b11c_3.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/38516954_b11c_3.jpg",
+            "initials": "AN",
+            "url": "/user/andrei-neagoie/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/1430746_2f43_10.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/1430746_2f43_10.jpg",
         "is_practice_test_course": false,
@@ -293,19 +259,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "Tla1QoIOTfCtKUwRHNSy9Q",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Maximilian Schwarzmüller",
-                "name": "Maximilian",
-                "display_name": "Maximilian Schwarzmüller",
-                "job_title": "Professional Web Developer and Instructor",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/13952972_e853.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/13952972_e853.jpg",
-                "initials": "MS",
-                "url": "/user/maximilian-schwarzmuller/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Maximilian Schwarzmüller",
+            "name": "Maximilian",
+            "display_name": "Maximilian Schwarzmüller",
+            "job_title": "Professional Web Developer and Instructor",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/13952972_e853.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/13952972_e853.jpg",
+            "initials": "MS",
+            "url": "/user/maximilian-schwarzmuller/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/995016_ebf4_3.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/995016_ebf4_3.jpg",
         "is_practice_test_course": false,
@@ -336,19 +300,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "YZoH4Qc_Spe_hL6zhaQsqQ",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Anthony Alicea",
-                "name": "Anthony",
-                "display_name": "Anthony Alicea",
-                "job_title": "Software Developer, Architect, and UX Designer",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/2467626_f2e0.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/2467626_f2e0.jpg",
-                "initials": "AA",
-                "url": "/user/anthonypalicea/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Anthony Alicea",
+            "name": "Anthony",
+            "display_name": "Anthony Alicea",
+            "job_title": "Software Developer, Architect, and UX Designer",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/2467626_f2e0.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/2467626_f2e0.jpg",
+            "initials": "AA",
+            "url": "/user/anthonypalicea/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/364426_2991_6.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/364426_2991_6.jpg",
         "is_practice_test_course": false,
@@ -379,19 +341,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "m-MlHhD_ReOOGntJIWWyAA",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Jose Portilla",
-                "name": "Jose",
-                "display_name": "Jose Portilla",
-                "job_title": "Head of Data Science, Pierian Data Inc.",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/9685726_67e7_4.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/9685726_67e7_4.jpg",
-                "initials": "JP",
-                "url": "/user/joseportilla/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Jose Portilla",
+            "name": "Jose",
+            "display_name": "Jose Portilla",
+            "job_title": "Head of Data Science, Pierian Data Inc.",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/9685726_67e7_4.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/9685726_67e7_4.jpg",
+            "initials": "JP",
+            "url": "/user/joseportilla/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/822444_a6db.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/822444_a6db.jpg",
         "is_practice_test_course": false,
@@ -422,30 +382,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "59puzh53SiaL2V8uQZtA_A",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Academind by Maximilian Schwarzmüller",
-                "name": "Academind by Maximilian",
-                "display_name": "Academind by Maximilian Schwarzmüller",
-                "job_title": "Online Education",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/31926668_94e7_6.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/31926668_94e7_6.jpg",
-                "initials": "AS",
-                "url": "/user/academind/"
-            },
-            {
-                "_class": "user",
-                "title": "Maximilian Schwarzmüller",
-                "name": "Maximilian",
-                "display_name": "Maximilian Schwarzmüller",
-                "job_title": "Professional Web Developer and Instructor",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/13952972_e853.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/13952972_e853.jpg",
-                "initials": "MS",
-                "url": "/user/maximilian-schwarzmuller/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Academind by Maximilian Schwarzmüller",
+            "name": "Academind by Maximilian",
+            "display_name": "Academind by Maximilian Schwarzmüller",
+            "job_title": "Online Education",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/31926668_94e7_6.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/31926668_94e7_6.jpg",
+            "initials": "AS",
+            "url": "/user/academind/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/1879018_95b6_3.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/1879018_95b6_3.jpg",
         "is_practice_test_course": false,
@@ -476,19 +423,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "U-pI6we9RGSRUJOcPwQyBQ",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Brad Traversy",
-                "name": "Brad",
-                "display_name": "Brad Traversy",
-                "job_title": "Full Stack Web Developer & Instructor at Traversy Media",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/21681922_4513_5.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/21681922_4513_5.jpg",
-                "initials": "BT",
-                "url": "/user/brad-traversy/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/21681922_4513_5.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/21681922_4513_5.jpg",
+            "initials": "BT",
+            "url": "/user/brad-traversy/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/1463348_52a4_2.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/1463348_52a4_2.jpg",
         "is_practice_test_course": false,
@@ -519,19 +464,17 @@
             "currency_symbol": "$"
         },
         "price_serve_tracking_id": "uiyqCDl1ROmRuOjpqHZKsg",
-        "visible_instructors": [
-            {
-                "_class": "user",
-                "title": "Anthony Alicea",
-                "name": "Anthony",
-                "display_name": "Anthony Alicea",
-                "job_title": "Software Developer, Architect, and UX Designer",
-                "image_50x50": "https://img-c.udemycdn.com/user/50x50/2467626_f2e0.jpg",
-                "image_100x100": "https://img-c.udemycdn.com/user/100x100/2467626_f2e0.jpg",
-                "initials": "AA",
-                "url": "/user/anthonypalicea/"
-            }
-        ],
+        "visible_instructors": {
+            "_class": "user",
+            "title": "Anthony Alicea",
+            "name": "Anthony",
+            "display_name": "Anthony Alicea",
+            "job_title": "Software Developer, Architect, and UX Designer",
+            "image_50x50": "https://img-c.udemycdn.com/user/50x50/2467626_f2e0.jpg",
+            "image_100x100": "https://img-c.udemycdn.com/user/100x100/2467626_f2e0.jpg",
+            "initials": "AA",
+            "url": "/user/anthonypalicea/"
+        },
         "image_125_H": "https://img-c.udemycdn.com/course/125_H/461160_8d87_6.jpg",
         "image_240x135": "https://img-c.udemycdn.com/course/240x135/461160_8d87_6.jpg",
         "is_practice_test_course": false,
